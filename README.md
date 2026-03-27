@@ -94,7 +94,7 @@ A aplicação segue o padrão REST com separação em camadas:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 # 2. Acesse a pasta do projeto
-cd environmental-monitoring-api
+cd sea-clean-reporter
 
 # 3. Configure o banco de dados em src/main/resources/application.properties
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
